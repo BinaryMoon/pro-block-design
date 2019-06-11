@@ -12,3 +12,4 @@ The code should:
 
 * Use [WordPress coding standards](https://codex.wordpress.org/WordPress_Coding_Standards)
 * Enhance core functionality before building new things
+* Should use modern development standards such as CSS custom properties.
