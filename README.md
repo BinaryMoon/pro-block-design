@@ -1,6 +1,8 @@
-# Pro Theme Blocks and Effects
+# Pro Theme Blocks
 
-New Blocks and Effects for the WordPress block editor. A complement to plugins like CoBlocks, and Atomic Blocks.
+Aet Direction for WordPress.
+
+Includes new blocks and effects for the WordPress block editor. A complement to plugins like CoBlocks, and Atomic Blocks.
 
 ## Development Philosophy
 
